@@ -38,7 +38,8 @@ string[] FindLessThan(string[] input, int find)
     return output;
 }
 
-int find = 2;
+int find = 3;
 string[] array = AskArray();
 string[] result = FindLessThan(array, find);
 Console.WriteLine($"[{string.Join(", ", array)}] -> [{string.Join(", ", result)}]");
+

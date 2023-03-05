@@ -36,4 +36,8 @@
 
 ## Пример: 
 > dotnet run 
-> 
+> > ![](image/image1.png)
+
+
+## Вывод результата после ввода: 
+> ![](image/image2.png)
