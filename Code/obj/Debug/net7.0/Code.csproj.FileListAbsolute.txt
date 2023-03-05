@@ -1,0 +1,15 @@
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/bin/Debug/net7.0/Code
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/bin/Debug/net7.0/Code.deps.json
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/bin/Debug/net7.0/Code.runtimeconfig.json
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/bin/Debug/net7.0/Code.dll
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/bin/Debug/net7.0/Code.pdb
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/obj/Debug/net7.0/Code.csproj.AssemblyReference.cache
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/obj/Debug/net7.0/Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/obj/Debug/net7.0/Code.AssemblyInfoInputs.cache
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/obj/Debug/net7.0/Code.AssemblyInfo.cs
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/obj/Debug/net7.0/Code.csproj.CoreCompileInputs.cache
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/obj/Debug/net7.0/Code.dll
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/obj/Debug/net7.0/refint/Code.dll
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/obj/Debug/net7.0/Code.pdb
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/obj/Debug/net7.0/Code.genruntimeconfig.cache
+/Users/avasilev/Desktop/Учеба/final 1 block/Code/obj/Debug/net7.0/ref/Code.dll
